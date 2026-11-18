@@ -1,0 +1,82 @@
+<?php
+
+/**
+ * CiSkeleton Language Metadata - Bulgarian
+ *
+ * @package     CiSkeleton\Core
+ * @subpackage  Language
+ * @category    Metadata
+ *
+ * @author      Kader Bouyakoub <bkader[at]mail[dot]com>
+ * @copyright   2018-present, Kader Bouyakoub
+ * @license     MIT
+ * @link        https://opensource.org/license/mit
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+return [
+	'name'       => 'Български',
+	'name_en'    => 'Bulgarian',
+	'locale'     => 'bg_BG',
+	'tag'        => 'bg-BG',
+	'direction'  => 'ltr',
+	'code'       => 'bg',
+	'flag'       => 'bg',
+	'version'    => '0.0.1',
+	'version_id' => 1,
+
+	// Localized language names.
+	'translations' => [
+		'arabic'      => 'Арабски',
+		'armenian'    => 'Арменски',
+		'azerbaijani' => 'Азербайджански',
+		'bengali'     => 'Бенгалски',
+		'brazilian'   => 'Португалски (Бразилия)',
+		'bulgarian'   => 'Български',
+		'catalan'     => 'Каталонски',
+		'chinese'     => 'Китайски (Опростен)',
+		'croatian'    => 'Хърватски',
+		'czech'       => 'Чешки',
+		'danish'      => 'Датски',
+		'dutch'       => 'Нидерландски',
+		'english'     => 'Английски',
+		'estonian'    => 'Естонски',
+		'filipino'    => 'Филипински',
+		'finnish'     => 'Фински',
+		'french'      => 'Френски',
+		'georgian'    => 'Грузински',
+		'german'      => 'Немски',
+		'greek'       => 'Гръцки',
+		'hindi'       => 'Хинди',
+		'hungarian'   => 'Унгарски',
+		'indonesian'  => 'Индонезийски',
+		'italian'     => 'Италиански',
+		'japanese'    => 'Японски',
+		'khmer'       => 'Кхмерски',
+		'korean'      => 'Корейски',
+		'latvian'     => 'Латвийски',
+		'lithuanian'  => 'Литовски',
+		'malay'       => 'Малайски',
+		'marathi'     => 'Маратхийски',
+		'norwegian'   => 'Норвежки',
+		'persian'     => 'Персийски',
+		'polish'      => 'Полски',
+		'portuguese'  => 'Португалски',
+		'romanian'    => 'Румънски',
+		'russian'     => 'Руски',
+		'serbian'     => 'Сръбски',
+		'slovak'      => 'Словашки',
+		'slovenian'   => 'Словенски',
+		'spanish'     => 'Испански',
+		'swahili'     => 'Суахили',
+		'swedish'     => 'Шведски',
+		'taiwanese'   => 'Китайски (Традиционен)',
+		'tamil'       => 'Тамилски',
+		'thai'        => 'Тайландски',
+		'turkish'     => 'Турски',
+		'ukrainian'   => 'Украински',
+		'urdu'        => 'Урду',
+		'vietnamese'  => 'Виетнамски',
+	],
+];
